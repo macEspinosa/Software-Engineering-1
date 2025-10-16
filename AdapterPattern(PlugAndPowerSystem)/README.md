@@ -6,12 +6,9 @@ To ensure compatibility and safety, you need to create adapters for different de
 
 ## UML Class Diagram
 
-
 ![UML Diagram](images/AdapterPatternImage.png)
 
-
 ## 🧩 Adaptee Objects
-
 - **Laptop** – Represents a laptop device that needs to be plugged into a power source.  
   It has the `charge()` method.
 
@@ -21,14 +18,12 @@ To ensure compatibility and safety, you need to create adapters for different de
 - **SmartphoneCharger** – Represents a smartphone charger that needs to be plugged in for charging.  
   It has the `chargePhone()` method.
 
----
 
 ## ⚙️ Target Object
 
 - **PowerOutlet** – Represents a standard power outlet with a common interface for plugging in devices.  
   It defines the `plugIn()` method as the target method.
 
----
 
 ## 🔌 Adapter Objects
 
