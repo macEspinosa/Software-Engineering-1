@@ -1,4 +1,4 @@
-public class SchoolAppDemo {
+public class SchoolManagementAppDemo {
     public static void main(String[] args) {
         // Create instances of each independent system
         AttendanceSystem attendance = new AttendanceSystem();
