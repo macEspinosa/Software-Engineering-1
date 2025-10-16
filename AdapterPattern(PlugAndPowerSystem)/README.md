@@ -6,7 +6,7 @@ To ensure compatibility and safety, you need to create adapters for different de
 
 ## UML Class Diagram
 
-![UML Diagram](images/AdapterPatternImage.png)
+![UML Diagram](UMLDiagram/AdapterPatternImage.png)
 
 ## 🧩 Adaptee Objects
 - **Laptop** – Represents a laptop device that needs to be plugged into a power source.  
