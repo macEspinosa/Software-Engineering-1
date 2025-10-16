@@ -8,7 +8,7 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 
 ---
 
-![UML Diagram](FacadePatternImage.png)
+![UML Diagram](image/FacadePatternImage.png)
 
 ## Class Definitions
 
