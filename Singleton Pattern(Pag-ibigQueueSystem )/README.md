@@ -4,8 +4,6 @@
 This project demonstrates the **Singleton Design Pattern** through a **Centralized Queuing System** for the Pag-ibig office.  
 The system ensures that all help desk stations share a **single queue instance**, maintaining an organized and synchronized queuing process.
 
----
-
 ## 🧩 Problem Statement
 The Pag-ibig office implements a centralized queuing system for three help desk stations. Individuals visiting the office obtain a queue number from this centralized system. Additionally, there's an online monitoring system that displays the current queued number in real time for individuals monitoring the queue remotely.
 
@@ -14,6 +12,5 @@ Each help desk station has an option to reset the queuing number based on an inp
 This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.
 
 ## UML Class Diagram
-
 
 ![UML Diagram](images/SingletonPatternUML.png)
