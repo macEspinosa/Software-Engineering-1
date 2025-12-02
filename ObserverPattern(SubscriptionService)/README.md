@@ -6,7 +6,7 @@ This project involves designing a **real-time news subscription service** for a 
 ## UML Class Diagram
 
 
-![UML Diagram](images/UMLDiagram.png)
+![UML Diagram](UML/UMLDiagram.png)
 
 
 The system comprises two main components: **NewsAgency** and **Subscriber**.
