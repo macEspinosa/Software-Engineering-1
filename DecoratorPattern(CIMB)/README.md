@@ -23,7 +23,7 @@ Benefits include the "Standard Savings Account" plus "with Insurance".
 
 1.showAccountType() - Either returns "Savings Account", "GSave" or "UpSave"
 
-**2.getInterestRate() - Either returns 1% for Savings Account; 2.5% for GSave; 4.0% UpSave
+2.getInterestRate() - Either returns 1% for Savings Account; 2.5% for GSave; 4.0% UpSave
 
 3.getBalance() - Returns the balance of the account set.
 
